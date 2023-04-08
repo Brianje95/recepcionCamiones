@@ -1,2 +1,2 @@
 # recepcionCamiones
-trabajo practico realizado en equipo de la materia Algoritmos y Estructuras de Datos, realizado en Python // UTN
+trabajo practico en equipo de la materia Algoritmos y Estructuras de Datos realizado en Python // UTN
